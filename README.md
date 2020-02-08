@@ -21,11 +21,11 @@ This repo is ment to help you lay your hands on github and practice the things y
 
  | Contributors | Github | Year |
  | ------------ | ------ | ---- |
- | Harsh Raj    | [harshraj22](https://github.com/harshraj22/) | 2018-2022 |
+ | Rishit Saiya | [rishitsaiya](https://github.com/rishitsaiya/) | 2018-2022 |
 
 <br/>
  Maintainers : Responsible for merging PRs and helping new comers try out these commands.
 
  | Maintainers | Github | Year |
- | ------------ | ------ | ---- |
- | Harsh Raj    | [harshraj22](https://github.com/harshraj22/) | 2018-2022 |
+ | ----------- | ------ | ---- |
+ | Rishit Saiya| [rishitsaiya](https://github.com/rishitsaiya/) | 2018-2022 |
